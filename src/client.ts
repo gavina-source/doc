@@ -11,7 +11,7 @@ import {
   WsCloseCode,
 } from "./types";
 
-const RMS_URL = "wss://rms.lsports.eu";
+const RMS_URL = "wss://rms.lsports.cloud";
 const RMS_PATH = "/rms-socket/socket.io";
 
 // Access token is valid for 30 minutes; refresh 2 minutes before expiry.
